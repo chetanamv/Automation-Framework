@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="products.RemoveProduct"/>
+      <class name="products.RemoveProductTest"/>
       <class name="products.AddProductToCartTest"/>
     </classes>
   </test> <!-- Test -->

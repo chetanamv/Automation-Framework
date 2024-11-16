@@ -2,10 +2,11 @@ package practice;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
+import org.testng.annotations.Test;
+@Test
 public class Test1 {
 
-	public static void main(String[] args) {
+	public static void Test() {
 		// TODO Auto-generated method stub
 
 		WebDriver driver= new FirefoxDriver();
