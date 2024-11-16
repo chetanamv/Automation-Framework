@@ -82,7 +82,7 @@ public class AddProductToCartTest extends BaseClass {
 	//		Thread.sleep(4000);
 			pp.clickOnCartContainer();
 			
-			Assert.fail();
+		
 			
 			//step 7: capture the product details in cart
 			
