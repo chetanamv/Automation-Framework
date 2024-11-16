@@ -31,7 +31,7 @@ public class BaseClass {
 	// used for listeners
 	public static WebDriver sDriver;
 	
-	@BeforeSuite(groups = "Smoke,Regression")
+	@BeforeSuite(groups = {"Smoke","Regression"})
 	
 		public void bsConfig()
 		{
