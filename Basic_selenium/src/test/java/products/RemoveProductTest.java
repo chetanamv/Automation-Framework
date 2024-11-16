@@ -7,7 +7,7 @@ import genericUtilities.BaseClass;
 @Listeners(genericUtilities.ListenersImplementation.class)
 public class RemoveProductTest extends BaseClass{
 	
-@Test(groups = "Smoke,Regression")
+@Test(groups = "Smoke")
 	public void sample()
 	{
 		
