@@ -10,6 +10,7 @@ public class Test1 {
 
 		WebDriver driver= new FirefoxDriver();
 		driver.get("https://www.facebook.com/");
+		 System.out.println("hi");
 	}
 
 }
